@@ -1,0 +1,12 @@
+body {
+  background-image: url("images/images.jpg");
+  background-repeat: no-repeat;
+  background-size: 450px;
+  width: 100%;
+}
+.bg {
+  background-color: #b5eaea;
+}
+.bg-create {
+  background-color: tomato;
+}
